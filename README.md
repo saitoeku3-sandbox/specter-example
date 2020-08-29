@@ -1,4 +1,4 @@
-# spector-example
+# specter-example
 
 > Sample application using specter (https://github.com/recruit-tech/specter)
 
